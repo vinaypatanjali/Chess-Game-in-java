@@ -1,0 +1,10 @@
+Compiled from "WindowUtilities.java"
+public class ChessV.WindowUtilities {
+  public ChessV.WindowUtilities();
+  public static void setNativeLookAndFeel();
+  public static void setJavaLookAndFeel();
+  public static void setMotifLookAndFeel();
+  public static javax.swing.JFrame openInJFrame(java.awt.Container, int, int, java.lang.String, java.awt.Color);
+  public static javax.swing.JFrame openInJFrame(java.awt.Container, int, int, java.lang.String);
+  public static javax.swing.JFrame openInJFrame(java.awt.Container, int, int);
+}

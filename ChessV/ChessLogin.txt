@@ -1,0 +1,14 @@
+Compiled from "ChessLogin.java"
+class ChessV.ChessLogin {
+  javax.swing.JFrame jfrm;
+  javax.swing.JLabel jl1;
+  javax.swing.JLabel jl2;
+  javax.swing.JLabel jl3;
+  javax.swing.JButton jb;
+  javax.swing.JTextField jtf1;
+  javax.swing.JTextField jtf2;
+  public static java.lang.String nplayer1;
+  public static java.lang.String nplayer2;
+  public ChessV.ChessLogin();
+  public static void main(java.lang.String[]);
+}

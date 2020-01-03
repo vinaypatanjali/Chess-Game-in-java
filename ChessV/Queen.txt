@@ -1,0 +1,5 @@
+Compiled from "Queen.java"
+public class ChessV.Queen extends ChessV.ChessGame {
+  public ChessV.Queen();
+  public static void queen(javax.swing.JButton, javax.swing.JButton);
+}

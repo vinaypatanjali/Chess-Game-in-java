@@ -1,0 +1,5 @@
+Compiled from "Knight.java"
+public class ChessV.Knight extends ChessV.ChessGame {
+  public ChessV.Knight();
+  public static void knight(javax.swing.JButton, javax.swing.JButton);
+}

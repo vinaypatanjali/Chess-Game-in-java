@@ -1,0 +1,5 @@
+Compiled from "Bishop.java"
+public class ChessV.Bishop extends ChessV.ChessGame {
+  public ChessV.Bishop();
+  public static void bishop(javax.swing.JButton, javax.swing.JButton);
+}

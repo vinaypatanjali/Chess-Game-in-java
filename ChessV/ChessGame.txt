@@ -1,0 +1,40 @@
+Compiled from "ChessGame.java"
+public class ChessV.ChessGame extends java.awt.event.MouseAdapter {
+  javax.swing.JFrame jfrm;
+  static javax.swing.JButton[][] jb;
+  static javax.swing.JLabel[] l;
+  static javax.swing.JLabel turn;
+  static javax.swing.JLabel check;
+  static javax.swing.JLabel play;
+  static javax.swing.JButton myButton;
+  static javax.swing.JButton current;
+  static javax.swing.JButton restart;
+  java.lang.String s;
+  static javax.swing.ImageIcon[] ii;
+  static javax.swing.ImageIcon[] ii1;
+  javax.swing.JPanel jp;
+  javax.swing.JPanel jp1;
+  javax.swing.JPanel jp2;
+  javax.swing.JPanel jp3;
+  javax.swing.JPanel jp4;
+  static int sum;
+  static int x;
+  static int y;
+  static int i1;
+  static int i2;
+  static int j2;
+  static int j1;
+  static int pselect;
+  static int count;
+  static int isWhite;
+  static int player1;
+  static int isBlack;
+  static int isbetween;
+  public ChessV.ChessGame();
+  public void mouseClicked(java.awt.event.MouseEvent);
+  int isWorB();
+  void clear();
+  void isKingSafe();
+  public static void main(java.lang.String[]);
+  static {};
+}

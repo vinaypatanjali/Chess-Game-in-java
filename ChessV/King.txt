@@ -1,0 +1,5 @@
+Compiled from "King.java"
+public class ChessV.King extends ChessV.ChessGame {
+  public ChessV.King();
+  public static void king(javax.swing.JButton, javax.swing.JButton);
+}

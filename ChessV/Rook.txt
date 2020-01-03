@@ -1,0 +1,5 @@
+Compiled from "Rook.java"
+public class ChessV.Rook extends ChessV.ChessGame {
+  public ChessV.Rook();
+  public static void rook(javax.swing.JButton, javax.swing.JButton);
+}

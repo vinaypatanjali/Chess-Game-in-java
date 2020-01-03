@@ -1,0 +1,5 @@
+Compiled from "Pawn.java"
+public class ChessV.Pawn extends ChessV.ChessGame {
+  public ChessV.Pawn();
+  public static void pawn(javax.swing.JButton, javax.swing.JButton);
+}
